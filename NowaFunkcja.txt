@@ -1,0 +1,2 @@
+Ta funkcja dodaje nową możliwość do projektu.
+Pracuję nad tym w oddzielnej gałęzi.
